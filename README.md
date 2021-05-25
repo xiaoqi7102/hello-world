@@ -1,4 +1,2 @@
-# hello-world
-soil moisture Inversing
-hi everybody!
-I am a newer, I want to master the python to help me to finish my study.
+# processing satellite-based soil moisture 
+Process soil moisture such as ESA CCI, SMAP, AMSR2, FY3B, FY3C and SMOS in Python or MATLAB
